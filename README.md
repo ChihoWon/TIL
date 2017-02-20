@@ -12,4 +12,4 @@ It is the log about being better than i was yesterday.
 * [Linux](#linux)
 ---
 ### Linux
-- [SSH server on Ubuntu](linux/linux/ssh-server-on-ubuntu.md)
+- [SSH server on Ubuntu](linux/ssh-server-on-ubuntu.md)
