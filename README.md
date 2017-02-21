@@ -8,8 +8,11 @@ It is the log about being better than i was yesterday.
 > if you learn anything in a day, you can get better.
 
 ---
+
 ### Category
+
 * [Linux](#linux)
+
 ---
 ### Linux
 - [SSH server on Ubuntu](linux/ssh-server-on-ubuntu.md)
