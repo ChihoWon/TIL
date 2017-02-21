@@ -46,8 +46,9 @@ FROM table_name
 WHERE column_name operator value;
 ```
 Operators:  
+
 |operator | description|
-|-|-|
+---|---  
 |=|Equal|
 |<>|Not equal. `!=` also can be 'not equal' in some DBMS.|
 |>|Greater than|
