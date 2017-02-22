@@ -163,9 +163,9 @@ WHERE Country LIKE '%ORE%';
 
 |Wildcard|Description|Example|
 ---|---|---
-|%|A substitute for zero or more characters|%hi%|
-|_|A substitute for a single character|_orea|
-|[charlist]|Sets and ranges of characters to match|[abc]\%|
+|`%`|A substitute for zero or more characters|%hi%|
+|`_`|A substitute for a single character|_orea|
+|`[charlist]`|Sets and ranges of characters to match|[abc]%|
 
 You can use one or more wildcards at the same time.  
 
