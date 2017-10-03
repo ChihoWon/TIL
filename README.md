@@ -34,3 +34,13 @@ It is the log about being better than i was yesterday.
 
 ### Vim
 - [Vim Cheat Sheet](vim/vim-cheat-sheet.md)
+
+---
+
+### Test
+
+* [.idea](#.idea)
+* [.idea\inspectionProfiles](#.idea/inspectionprofiles)
+* [a_depth1](#a_depth1)
+* [a_depth1\a_depth2](#a_depth1/a_depth2)
+* [a_depth1\a_depth2\a_depth3](#a_depth1/a_depth2/a_depth3)
